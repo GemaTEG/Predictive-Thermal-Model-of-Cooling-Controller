@@ -39,7 +39,7 @@ The XGBoost-based thermal model demonstrates excellent predictive capabilities:
 
 
 
-Performance Visualization
-<div align="center"> <img src="https://via.placeholder.com/800x400.png?text=Model+Performance+Graphs" width="700" alt="Model Performance Visualization"/> </div>
+### Performance Visualization
+<div align="center"> <img src="https://github.com/GemaTEG/Predictive-Thermal-Model-of-Cooling-Controller/blob/main/residual%20destribution.png" width="700" alt="Model Performance Visualization"/> </div>
 
 
