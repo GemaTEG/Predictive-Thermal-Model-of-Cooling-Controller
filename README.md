@@ -13,12 +13,9 @@ A machine learning model built with XGBoost to predict and optimize thermal mana
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Model Performance](#model-performance)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Repository Structure](#repository-structure)
-- [Results](#results)
-- [Contributing](#contributing)
+- [Training Metrics](#Training-Metrics)
+- [Final Evaluation Results](#Final-Evaluation-Results)
+- [Performance Visualization](#Performance-Visualization)
 - [License](#license)
 
 ## Model Performance
