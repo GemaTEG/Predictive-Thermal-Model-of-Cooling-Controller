@@ -9,6 +9,7 @@ A machine learning model built with XGBoost to predict and optimize thermal mana
 <h3>Main Implementation <a href="https://github.com/GemaTEG/Predictive-Thermal-Model-of-Cooling-Controller/blob/main/Thermal%20Model.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a></h3>
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Model Performance](#model-performance)
