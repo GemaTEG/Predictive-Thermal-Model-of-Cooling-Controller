@@ -1,4 +1,4 @@
-# Thermal Modeling for TEC-Based Cooling Controllers
+# Thermal Modeling of Cooling Controllers
 
 This repository implements a comprehensive thermal modeling system for Thermoelectric Cooler (TEC) based cooling controllers using machine learning. The model is trained on data extracted and processed from server monitoring systems using Prometheus.
 
